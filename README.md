@@ -4,9 +4,9 @@ Twitter is a social media site and its primary purposes are to convert people an
 
 Twitter an American Microbe Using twitter social media users post their views, opinions and to communicate with messages called as tweets
 
-Sentimental analysis means the analysis and classification of the emotions and feelings such as positive thought, negative thought and neutral thought using text 
+Sentimental analysis means the analysis and classification of the emotions and feelings such as positive thought, negative thought and neutral thought 
 
-analysis techniques within text data.
+using text analysis techniques within text data.
 
 The idea is to solve people’s dilemma for choosing a certain product or service over other. The objective is to collect data from tweeter feeds on trending topics
 
