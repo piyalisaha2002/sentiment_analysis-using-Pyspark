@@ -18,7 +18,9 @@ worker and master nodes. This cluster is scalable and can handle millions of rec
 
  Spark SQL :
  
-Spark core has an SQL extension which supports more optimization on datasets(RDD) and is in structured format to retrieve data using the SQL queries. Spark SQL provides
+Spark core has an SQL extension which supports more optimization on datasets(RDD) and is in structured format to retrieve data using the SQL queries. Spark SQL 
+
+provides
 
 most convenient way to perform several transitions on the data. Spark SQL  uses dataframes for data manipulations. 
 
@@ -26,7 +28,9 @@ Streaming Twitter Data Using PySpark
 
 We use spark streaming to stream live spark data. To load Twitter data into Apache Spark
 
-twitter provides an interface to developers which can be used to access twitter data. Visit twitters applications site to register your application “https://apps.twitter.com/”. I
+twitter provides an interface to developers which can be used to access twitter data. Visit twitters applications site to register your application 
+
+“https://apps.twitter.com/”. I
 
 have noted twitter tokens into TwitterKeys.txt which are needed to initialize spark streaming context. The streaming data is captured into batches. 
 
